@@ -17,6 +17,8 @@ password cisco
 login
 exit
 
+//banner motd
+
 //conf vlanky asi
 interface vlan 1
 ip address 192.168.1.1 255.255.255.0
