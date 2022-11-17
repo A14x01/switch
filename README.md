@@ -17,7 +17,7 @@ password cisco
 login
 exit
 
-//banner motd
+//banner motd gHello
 
 //conf vlanky asi
 interface vlan 1
