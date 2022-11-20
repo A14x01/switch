@@ -60,7 +60,6 @@ show arp                                 //Zobrazení ARP tabulky
 show ip interface                        //Zobrazení informací o ACL a routování na interface
 show ip route                            //Zobrazení směrovací tabulky
 ```
-<img src="../../img/default.png">
 
 - PC 192.168.0.10/24
 
